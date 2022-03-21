@@ -1,0 +1,12 @@
+{
+ "TOKEN": "OTU1MzM0MTYzNDAwMTMwNjQw.YjgKRQ.GGob0umVJq9rjI2tJNUszrN11S0",
+ "YOUTUBE_API_KEY": "AIzaSyDOO3OTGtuuBOdJbxrCJqT6F_6EsLTGhp8",
+  "SOUNDCLOUD_CLIENT_ID": "",
+  "MAX_PLAYLIST_SIZE": 10,
+  "PREFIX": "dk!",
+  "LOCALE": "en",
+  "support_server": "https://dsc.gg/unifiedemirates",
+  "PRUNING": false,
+  "STAY_TIME": 30,
+  "DEFAULT_VOLUME": 100
+}
